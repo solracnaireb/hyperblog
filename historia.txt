@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Esta es la historia de Carlos Bercian
 
 Carlos Bercian tiene 35 años de edad y nacio en Guatemala
@@ -5,3 +6,8 @@ Carlos Bercian tiene 35 años de edad y nacio en Guatemala
 Hoy hablaremos de su historia
 
 hoy hablaremos de su vida y obra maesta
+=======
+sdfkjasdklfjaklsdjfkajsdkfjaskdljfklsdjfka
+
+Mayana nos enfocaremos en su vida laboral
+>>>>>>> cabecera
